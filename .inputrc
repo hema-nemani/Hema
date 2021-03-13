@@ -1,0 +1,6 @@
+# BEGIN ANSIBLE MANAGED BLOCK
+## arrow up
+"\e[A":history-search-backward
+## arrow down
+"\e[B":history-search-forward
+# END ANSIBLE MANAGED BLOCK
